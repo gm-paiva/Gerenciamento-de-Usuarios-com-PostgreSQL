@@ -122,7 +122,7 @@ POSTGRES_PORT=5432
 
 ```bash
 # 1. Clone o repositório
-git clone https://github.com/gm-paiva/nome-do-repositorio.git
+git clone https://github.com/gm-paiva/Gerenciamento-de-Usuarios-com-PostgreSQL.git
 
 # 2. Acesse a pasta do projeto
 cd app
